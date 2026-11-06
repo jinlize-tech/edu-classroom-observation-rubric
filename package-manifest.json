@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-034",
+  "repository_name": "edu-classroom-observation-rubric",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
+  "sha256": "A85AB0543F4EDEC00AED6456F33ED0AD8746B7266F4276DCF11F96B85B619136",
+  "bytes": 4813,
+  "entries": [
+    "edu-classroom-observation-rubric/SKILL.md",
+    "edu-classroom-observation-rubric/references/DOMAIN_GUIDE.md",
+    "edu-classroom-observation-rubric/references/EXAMPLES.md",
+    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:16:55.0663817+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

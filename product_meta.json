@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "product_id": "JLZ-EDU-SK-034",
+  "chinese_name": "课堂观察量表",
+  "english_name": "Classroom Observation Rubric",
+  "repository_name": "edu-classroom-observation-rubric",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课堂目标、观察维度、课程类型、授课阶段和评价标准",
+  "main_output": "观察量表、行为指标、评分锚点、记录表和反馈结构",
+  "package_entries": [
+    "edu-classroom-observation-rubric/SKILL.md",
+    "edu-classroom-observation-rubric/references/DOMAIN_GUIDE.md",
+    "edu-classroom-observation-rubric/references/EXAMPLES.md",
+    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
