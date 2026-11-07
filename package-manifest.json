@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-034",
   "repository_name": "edu-classroom-observation-rubric",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
-  "sha256": "A85AB0543F4EDEC00AED6456F33ED0AD8746B7266F4276DCF11F96B85B619136",
-  "bytes": 4813,
+  "version": "1.0.1",
+  "package_path": "dist/edu-classroom-observation-rubric-v1.0.1.zip",
+  "sha256": "A6AC47F1118DC4CF450F21264A44E4DA0D85B51E4D2CB1D2B3D99643AE86DC4B",
+  "bytes": 14526,
   "entries": [
     "edu-classroom-observation-rubric/SKILL.md",
     "edu-classroom-observation-rubric/references/DOMAIN_GUIDE.md",
     "edu-classroom-observation-rubric/references/EXAMPLES.md",
-    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md"
+    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md",
+    "edu-classroom-observation-rubric/README.md",
+    "edu-classroom-observation-rubric/USAGE.md",
+    "edu-classroom-observation-rubric/LICENSE",
+    "edu-classroom-observation-rubric/THIRD_PARTY_NOTICES.md",
+    "edu-classroom-observation-rubric/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:16:55.0663817+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
+  "previous_package_sha256": "A85AB0543F4EDEC00AED6456F33ED0AD8746B7266F4276DCF11F96B85B619136",
+  "built_at": "2026-11-07T09:13:14.4538564+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

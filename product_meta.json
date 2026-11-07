@@ -6,19 +6,37 @@
   "repository_name": "edu-classroom-observation-rubric",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
+  "baseline_commit": "8bdec72945742dde30da53e69fb37d6ff9be6b3c",
+  "package_path": "dist/edu-classroom-observation-rubric-v1.0.1.zip",
+  "previous_package_path": "dist/edu-classroom-observation-rubric-v1.0.0.zip",
+  "previous_package_sha256": "A85AB0543F4EDEC00AED6456F33ED0AD8746B7266F4276DCF11F96B85B619136",
   "calculator": false,
   "core_input": "课堂目标、观察维度、课程类型、授课阶段和评价标准",
   "main_output": "观察量表、行为指标、评分锚点、记录表和反馈结构",
+  "main_output_fields": [
+    "观察量表",
+    "行为指标",
+    "评分锚点",
+    "记录表和反馈结构"
+  ],
   "package_entries": [
     "edu-classroom-observation-rubric/SKILL.md",
     "edu-classroom-observation-rubric/references/DOMAIN_GUIDE.md",
     "edu-classroom-observation-rubric/references/EXAMPLES.md",
-    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md"
+    "edu-classroom-observation-rubric/templates/OUTPUT_TEMPLATE.md",
+    "edu-classroom-observation-rubric/README.md",
+    "edu-classroom-observation-rubric/USAGE.md",
+    "edu-classroom-observation-rubric/LICENSE",
+    "edu-classroom-observation-rubric/THIRD_PARTY_NOTICES.md",
+    "edu-classroom-observation-rubric/scripts/validate_input.js"
   ]
 }
